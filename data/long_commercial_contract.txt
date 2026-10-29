@@ -1,0 +1,47 @@
+ENTERPRISE SOFTWARE DEVELOPMENT AND CLOUD HOSTING AGREEMENT
+
+SECTION 1. PARTIES AND EFFECTIVE DATE
+This Enterprise Software Development and Cloud Hosting Agreement ("Agreement") is made effective as of July 1, 2026 ("Effective Date"), by and between Horizon Financial Technologies Inc., a Delaware corporation having its principal place of business at 100 Wall Street, New York, NY 10005 ("Client"), and QuantumScale Cloud Infrastructure LLC, a Delaware limited liability company having its principal place of business at 400 Silicon Avenue, San Jose, CA 95110 ("Provider"). Client and Provider may collectively be referred to as the "Parties" or individually as a "Party."
+
+SECTION 2. PURPOSE AND SCOPE OF ENGAGEMENT
+The Client engages Provider to architect, develop, containerize, and manage an enterprise-grade high-frequency algorithmic trade matching and reconciliation platform. Provider shall provide all software engineering talent, DevOps pipeline automation, infrastructure provisioning, and continuous security compliance services required to fulfill the technical roadmap set forth in Exhibit A attached hereto.
+
+SECTION 3. DURATION AND TERM OF SERVICE
+This Agreement shall commence on Start Date: 01-07-2026 and shall remain in full force and effect for an initial duration of 24 months, expiring on End Date: 30-06-2028 ("Initial Term"). The Agreement may be renewed automatically for successive 12-month periods upon mutual written consent executed at least 60 days prior to the expiration of the then-current term.
+
+SECTION 4. PAYMENT TERMS, MILESTONES, AND TAXES
+In consideration of the services rendered, Client shall pay Provider a fixed recurring monthly platform retainer of $45,000/month, payable on the first day of each calendar month. In addition, milestone completion bonuses totaling $120,000 shall be disbursed upon delivery and acceptance of Phase 1 (Alpha Architecture), Phase 2 (Stress Test Concurrency), and Phase 3 (Production Cutover). All late payments shall accrue interest at the lesser of 1.5% per month or the maximum rate permissible by law. Client shall be responsible for all applicable sales, value-added, or gross receipts taxes.
+
+SECTION 5. KEY OBLIGATIONS AND COVENANTS
+Provider covenants and agrees that:
+• Provider must perform all software development services in accordance with professional industry standards and strict security guidelines.
+• Provider must maintain 99.99% system availability for all hosted trade execution clusters during official trading exchange hours.
+• Provider shall remediate any Critical (Severity 1) security vulnerability within 4 hours of detection or notification.
+• Provider shall deliver software according to specifications and provide comprehensive automated integration test suites.
+Client covenants and agrees that:
+• Client must provide timely technical feedback and approve sprint backlog items within five (5) business days.
+• Client must designate a dedicated Technical Product Owner to liaise directly with Provider's engineering leads.
+
+SECTION 6. TERMINATION PROVISIONS
+Either Party may terminate this Agreement without cause by giving 60 days written notice to the other Party. Furthermore, either Party may terminate this Agreement immediately upon written notice if:
+(a) The other Party commits a material breach of this Agreement and fails to remedy such breach within thirty (30) days of receipt of written notice; or
+(b) The other Party becomes insolvent, files for voluntary bankruptcy, or has an involuntary bankruptcy petition filed against it.
+Upon termination, Provider shall immediately deliver all work-in-progress, source code, and artifacts to Client.
+
+SECTION 7. CONFIDENTIALITY AND DATA PROTECTION
+Each Party agrees to hold in strict confidence all proprietary technical, financial, and operational information ("Confidential Information") disclosed by the other Party. Provider acknowledges that Client's trade order books, client portfolios, algorithms, and financial telemetry constitute extremely sensitive trade secrets. Provider shall implement military-grade AES-256 encryption at rest and in transit. This obligation of confidentiality shall survive the termination or expiration of this Agreement for a duration of seven (7) years.
+
+SECTION 8. INTELLECTUAL PROPERTY RIGHTS AND LICENSING
+Client shall be the sole and exclusive owner of all custom source code, database architectures, algorithmic workflows, APIs, and documentation developed specifically for Client under this Agreement ("Client IP"). Provider hereby assigns and transfers to Client all right, title, and interest in and to such Client IP. Provider retains exclusive ownership of its pre-existing core libraries, foundational deployment containers, and general utility routines ("Provider IP"), and grants Client a perpetual, royalty-free, worldwide, non-exclusive license to use Provider IP embedded within the deliverables.
+
+SECTION 9. WARRANTIES AND DISCLAIMERS
+Provider warrants that the deliverables will substantially conform to functional specifications for ninety (90) days following production cutover. EXCEPT AS EXPRESSLY PROVIDED HEREIN, NEITHER PARTY MAKES ANY WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+SECTION 10. LIMITATION OF LIABILITY AND INDEMNIFICATION
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF PROFITS, REVENUE, OR DATA. THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL NOT EXCEED THE TOTAL FEES ACTUALLY PAID BY CLIENT UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM. PROVIDER SHALL INDEMNIFY AND HOLD HARMLESS CLIENT AGAINST THIRD-PARTY INTELLECTUAL PROPERTY INFRINGEMENT CLAIMS.
+
+SECTION 11. DISPUTE RESOLUTION AND ARBITRATION
+The Parties agree that any dispute, claim, or controversy arising out of or relating to this Agreement shall first be submitted to senior executive mediation. If unresolved within thirty (30) days, the matter shall be submitted to final and binding arbitration administered by the American Arbitration Association (AAA) in New York, NY, before a single arbitrator under its Commercial Arbitration Rules.
+
+SECTION 12. GOVERNING LAW AND SEVERABILITY
+This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York, without regard to its conflict of law principles. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
