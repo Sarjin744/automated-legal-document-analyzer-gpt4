@@ -1,0 +1,43 @@
+MASTER SERVICE AGREEMENT
+
+This Master Service Agreement ("Agreement") is made and entered into on September 1, 2026, by and between:
+
+Client:
+FinTech Global Corporation, a financial services institution headquartered at Financial Center, Mumbai - 400051 ("Client"),
+
+AND
+
+Service Provider:
+CloudForge Engineering Solutions Pvt. Ltd., headquartered at Cyber City, Gurugram - 122002 ("Service Provider").
+
+1. PURPOSE
+The Client engages the Service Provider to perform cloud infrastructure architecture, automated deployment pipelines, and microservices modernization. The purpose is the delivery of secure enterprise cloud software according to specifications.
+
+2. DURATION
+The term of this Agreement shall commence on Start Date: 01-09-2026 and continue for a fixed duration of 6 months, ending on End Date: 28-02-2027.
+
+3. PAYMENT AND INVOICING
+• The Client agrees to pay the Service Provider a monthly fee of ₹1,50,000/month upon submission and approval of monthly sprint deliverables.
+• Invoices shall be payable within 15 business days of receipt. Late payments shall accrue interest at 1.5% per month.
+
+4. KEY OBLIGATIONS
+• Service Provider must deliver software according to specifications and meet agreed sprint milestones.
+• Service Provider shall perform rigorous automated unit and security vulnerability tests prior to code deployment.
+• Service Provider must maintain 99.9% uptime for deployed continuous integration environments.
+• Client must provide required API credentials and timely reviews within 5 business days of sprint reviews.
+
+5. TERMINATION
+• Either party may terminate this Agreement without cause upon providing 30 days written notice.
+• Either party may terminate immediately for cause if the other party breaches any material term and fails to cure within 14 days of written notice.
+
+6. CONFIDENTIALITY
+Both parties agree to treat all financial data, source repositories, and technical configurations as confidential and not disclose to third parties.
+
+7. INTELLECTUAL PROPERTY
+Upon full payment of fees, all custom source code, documentation, and architecture diagrams developed under this Agreement shall belong solely to the Client.
+
+8. LIMITATION OF LIABILITY
+The aggregate liability of either party under this Agreement shall not exceed the total fees paid by Client during the preceding three (3) months.
+
+9. GOVERNING LAW
+This Agreement shall be construed under the laws of the State of Maharashtra, India.
