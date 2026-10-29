@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.env
+.pytest_cache/
+test_sample.pdf
+test_*.txt
+test_*.json
+test_*.md
