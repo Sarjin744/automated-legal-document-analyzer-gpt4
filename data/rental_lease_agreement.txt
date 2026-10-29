@@ -1,0 +1,38 @@
+COMMERCIAL RENTAL AND LEASE AGREEMENT
+
+This Commercial Rental and Lease Agreement ("Lease") is entered into on October 1, 2026, by and between:
+
+Landlord:
+Metro Commercial Properties Trust, represented by its trustee Metro Realty Holdings Ltd., Chennai ("Landlord"),
+
+AND
+
+Tenant:
+NexGen AI Labs Private Limited, a research and software development enterprise, Chennai ("Tenant").
+
+1. PURPOSE
+The Landlord leases to Tenant the commercial property located at Suite 402, 4th Floor, Pinnacle Tech Tower, OMR, Chennai ("Premises"), solely for the purpose of operating software engineering and research offices.
+
+2. DURATION
+The lease duration is 36 months, commencing on Start Date: 01-10-2026 and expiring on End Date: 30-09-2029.
+
+3. RENT AND PAYMENT TERMS
+• The monthly rent shall be ₹80,000/month payable in advance on or before the 5th day of every calendar month.
+• The Tenant has deposited a refundable interest-free security deposit of ₹4,80,000 (equivalent to 6 months' rent).
+• Annual escalation of rent shall be 5% after completion of every 12 months.
+
+4. KEY OBLIGATIONS
+• Tenant must pay monthly rent promptly on the agreed due date.
+• Tenant must keep the leased premises in good, clean, and tenantable condition.
+• Tenant shall not assign, sublet, or transfer occupancy of the premises without prior written consent from the Landlord.
+• Landlord must provide uninterrupted power backup, central air conditioning maintenance, and common area security.
+
+5. TERMINATION AND VACATION
+• Either party may terminate this lease after the initial 12-month lock-in period by providing 60 days written notice.
+• Landlord may terminate immediately if Tenant defaults on rent for two consecutive months.
+
+6. CONFIDENTIALITY AND SECURITY
+Tenant's research data, computational equipment, and proprietary laboratory designs installed on the premises shall remain completely confidential and strictly inaccessible to Landlord staff without escort.
+
+7. GOVERNING LAW
+This agreement is governed by the laws of the State of Tamil Nadu, India, and Chennai courts shall have jurisdiction.
