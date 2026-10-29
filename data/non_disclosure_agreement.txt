@@ -1,0 +1,45 @@
+MUTUAL NON-DISCLOSURE AGREEMENT (NDA)
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of August 15, 2026 ("Effective Date"), by and between:
+
+Party A:
+Innovatech Systems Inc., having its principal office at 500 Innovation Way, San Jose, California ("Disclosing Party"),
+
+AND
+
+Party B:
+Vertex Solutions LLP, having its principal office at 12 Tech Boulevard, Cambridge, Massachusetts ("Receiving Party").
+
+1. PURPOSE
+The parties wish to explore a potential business collaboration regarding generative AI software integration. The purpose of this agreement is to ensure that all confidential technical, financial, and proprietary information disclosed between the parties remains strictly protected.
+
+2. DURATION
+This Agreement shall be effective for a duration of 24 months from the Start Date: 15-08-2026. The confidentiality obligations regarding trade secrets shall survive indefinitely.
+
+3. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" refers to any non-public information, software prototypes, business models, client databases, and proprietary algorithms disclosed verbally, visually, or in writing.
+
+4. KEY OBLIGATIONS
+• The Receiving Party must maintain confidentiality and exercise the same degree of care it uses for its own confidential assets, but not less than reasonable care.
+• The Receiving Party shall not disclose or disseminate Confidential Information to any third party without prior written consent.
+• The Receiving Party agrees to restrict access to employees strictly on a "need-to-know" basis.
+• Upon written demand or termination, the Receiving Party must return or destroy all copies of confidential files within 10 days.
+
+5. PAYMENT TERMS
+This is a mutual exchange of technical disclosures; neither party shall owe payment or financial remuneration under this Agreement.
+
+6. TERMINATION
+Either party may terminate discussions at any time upon 15 days written notice; however, confidentiality protections remain in force for the full agreed duration.
+
+7. INTELLECTUAL PROPERTY
+Nothing in this Agreement grants either party any license, patent, copyright, or trademark rights in the proprietary information disclosed.
+
+8. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by the laws of the State of California. Any disputes shall be submitted to the courts located in Santa Clara County, California.
+
+Signatures:
+For Innovatech Systems Inc.
+Authorized Representative
+
+For Vertex Solutions LLP
+Managing Partner
